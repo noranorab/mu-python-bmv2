@@ -1,0 +1,2 @@
+mu-local-sim.py can be run locally using the command: python mu-local-sim.py
+mu-bmv2-sim.py needs BMv2 simulator to be installed, follow instructions from https://github.com/p4lang/
